@@ -1,2 +1,2 @@
 # genai
-ChatBot using Node.js and Express.
+ChatBot using Node.js and Express.js
